@@ -1,0 +1,9 @@
+server:
+  port: ${random.int(1024,9999)}
+spring:
+  servlet:
+    multipart:
+      #配置单个上传文件的大小限制
+      max-file-size: 4MB
+      #配置在一个请求中上传文件总容量的限制
+      max-request-size: 20MB

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springbootexcopionandjunit/springbootexcopionandjunit.iml" filepath="$PROJECT_DIR$/springbootexcopionandjunit/springbootexcopionandjunit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootfileipload/springbootfileupload.iml" filepath="$PROJECT_DIR$/springbootfileipload/springbootfileupload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootfreemarker/springbootfreemarker.iml" filepath="$PROJECT_DIR$/springbootfreemarker/springbootfreemarker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootjdbc/springbootjdbc.iml" filepath="$PROJECT_DIR$/springbootjdbc/springbootjdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootjsbc/springbootjsbc.iml" filepath="$PROJECT_DIR$/springbootjsbc/springbootjsbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootjsp/springbootjsp.iml" filepath="$PROJECT_DIR$/springbootjsp/springbootjsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootthymeleaf/springbootthymeleaf.iml" filepath="$PROJECT_DIR$/springbootthymeleaf/springbootthymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootweb/springbootweb.iml" filepath="$PROJECT_DIR$/springbootweb/springbootweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springhelloword/springhelloword.iml" filepath="$PROJECT_DIR$/../springhelloword/springhelloword.iml" />
+    </modules>
+  </component>
+</project>

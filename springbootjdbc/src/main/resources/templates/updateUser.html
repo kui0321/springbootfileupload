@@ -1,0 +1,17 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns:th="http://www.thymeleaf.org">
+<link rel="shortcut icon" href="../resources/favicon.ico" th:href="@{/static/favicon.ico}"/>
+<html>
+<head>
+    <title>Title</title>
+</head>
+<body>
+    <form th:action="@{/user/updateUser}" method="post">
+        <input type="hidden" name="userid" th:value="${users.userid}">
+        <input type="text" name="username" th:value="${users.username}">
+        <input type="text" name="usersex" th:value="${users.usersex}">
+        <input type="submit" value="OK">
+    </form>
+</body>
+</html>
